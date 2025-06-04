@@ -2,7 +2,8 @@ root: C:\Users\Asus\my-prisma-project
 path: C:\Program Files\nodejs 
 arch: 64 
 proxy: none
-banana hha
+banana hha 
 new chamjhgffgh okkk 
 another banana edit on github1
 uureee
+11111g
